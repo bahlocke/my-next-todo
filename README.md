@@ -1,3 +1,8 @@
+A NextJS Typescript application that adds and removes TODOs to memory for practice. Can be replaced with live db at a later date if needed.
+
+Also, has external APIs to hit locally when server is running.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
